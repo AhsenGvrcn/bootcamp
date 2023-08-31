@@ -1,0 +1,14 @@
+Open Command prompt:
+Windows+R= CMD
+
+1) \Users\ahsen>cd c:\school
+
+2) Type Mkdir > creates a new directory (folder).
+
+3) \school>mkdir "Leren programmeren"
+
+   \school>mkdir "assesments"
+
+   \school>mkdir "kladblaadjes"
+
+   \school>mkdir "rommel"
