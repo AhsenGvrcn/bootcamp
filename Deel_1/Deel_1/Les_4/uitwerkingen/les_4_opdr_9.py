@@ -13,3 +13,4 @@ btw_bedrag= totaal_fruit*btw_9 #De btw bedrag van het fruit!
 totaal_bedrag_btw= totaal_fruit + btw_bedrag
 #nu dat we alle informatie hebben printen we de totale bedrag inclusief BTW voor her fruit!
 print("Totaalbedrag inclusief BTW op fruit van 9%:", totaal_bedrag_btw )
+#De terminal geeft het bedrag van 8.501999999999999 > afgerond is dat 8.50.
