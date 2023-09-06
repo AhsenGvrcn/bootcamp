@@ -1,0 +1,10 @@
+naam_1= input('Hoe heet je?')
+woord_1=input('Wat voor dag was het?')
+stad_1= input('Welke stad is het?')
+woord_3= input('Wat zoek je op?')
+woord_4= input('Wat voor man/vrouw?')
+woord_5= input('Wat verkocht de man/vrouw?')
+woord_6= input('Bij wat ben je gekomen?')
+woord_zin_7= input('Wat zag hij/zij de groep mensen doen?')
+
+print (' Het was een ' + woord_1 + ' dag in ' + stad_1 + naam_1 + ' liep door de straten, op zoek naar een ' + woord_3 + ' . Plotseling zag ' + naam_1 + ' een ' + woord_4 + ' vrouw die een ' + woord_5 + ' verkocht. ' + naam_1 + ' besloot om het te kopen en liep verder. ' + ' Toen ' + naam_1 + ' bij een ' + woord_6 + ' kwam, zag zij een groep mensen die ' + woord_zin_7 + naam_1 + ' besloot om mee te doen en had de tijd van haar leven. ')
