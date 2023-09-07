@@ -14,6 +14,7 @@ stop het in een variabele gemiddelde. Toon het gemiddelde. Voeg drie commentaren
 Pas het programma nu zo aan dat de gebruiker getallen kan invoeren.
 
 
+
 Opdracht 4:
 Schrijf code die de oppervlakte van een cirkel berekent, gebruik makend
 van variabelen straal en pi = 3.14159. Voor het geval je het vergeten bent, de formule is

@@ -1,5 +1,5 @@
 Opdracht 1:
-Wat klopt er niet in deze code:
+Wat klopt e r niet in deze code:
 	"if x = 18:
 	    print('de waarde van x = 18')"
 
@@ -36,7 +36,7 @@ print(a....
 Schrijf er zo zelf nog eens minimaal 5 en test je code.
 
 
-Opdracht 5 (hard):
+Opdracht 5 (hard): HOEF NIET PERSEE!!
 Voer opdracht 2 nogmaals uit maar nu met 3 variabelen: a, b en c.
 Hint: je kunt dit in twee stappen uitvoeren.
 Vervolgens zorg je er ook weer voor dat de gebruiker de getallen kan invoeren.
