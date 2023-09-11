@@ -13,8 +13,6 @@ aanbiedings_zin = ''
 
 
 
-
-
 #dus o.b.v. leeftijd moet er een aanbieding komen en oh ja, nog geen 18 dan: roep je ouders
 #tot 50 is 2GB extra
 #vanaf 50 gratis sms
@@ -27,7 +25,9 @@ elif leeftijd < 50:
 else: #leeftijd > 50: 
    aanbiedings_zin= "Je krijgt van ons gratis smsjes (zolang de voorraad streekt)"
 
-print(TEKST + " " + aanbiedings_zin)
+if leeftijd>= 18:
+ print(TEKST + " " + aanbiedings_zin)
+
  # < kleiner dan
  # > groter dan
  #== gelijk aan

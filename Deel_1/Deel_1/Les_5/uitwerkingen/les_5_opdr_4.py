@@ -8,4 +8,4 @@ print('De oppervlakte van een cirkel met straal ',straal , 'is' , oppervlakte)
 omtrek= 2*straal*pi
 print('De omtrek van een cirkel is', omtrek)
 
-#In itslearning vind je een map hierover, er staat "stuks = int(input('geef aantal stuks')) lenght=float(input('geef de opgemeten lengte zo nauwkering mogelijk)).
+#In itslearning vind je een map hierover, er staat "stuks = int(input('geef aantal stuks')) >> lenght=float(input('geef de opgemeten lengte zo nauwkerig mogelijk))."
