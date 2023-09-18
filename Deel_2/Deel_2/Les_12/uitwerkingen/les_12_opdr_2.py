@@ -6,4 +6,4 @@ getal_2 = float(getal_2_str)
 
 gemiddelde = (getal_1 + getal_2) / 2
 
-print(f'HEt gemmiddelde van {getal_1} en {getal_2} is {gemiddelde}')
+print(f'Het gemmiddelde van {getal_1} en {getal_2} is {gemiddelde}')

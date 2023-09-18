@@ -3,9 +3,9 @@ autos = ('fiat','bmw', 'mercedes', 'volkswagen', 'jaguar') #tuple, letterlijk ee
 auto = input('Wat wilt u kopen?')
 
 if auto in autos:
-    print('We hebben meerdere occasions.')
-    for aanbieding in autos:
-        print(aanbieding)
+    print('Wat biedt u?')
+    #for aanbieding in autos:
+       # print(aanbieding) < small practice!
 else:
     print('Helaas, daar valt niets aan te verdienen!')
 

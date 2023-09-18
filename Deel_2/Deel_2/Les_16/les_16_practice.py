@@ -6,9 +6,7 @@ def divide (getal1,getal2, operator):
   else:
     result = 0
 
-  return result
-
-
+  return result   #dit kan ook zoals product maar dan alleen divide!
 
 
 def product (getal1, getal2):

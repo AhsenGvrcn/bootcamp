@@ -6,6 +6,14 @@ Je gaat een eenvoudig raadspelletje maken. Hiervoor volg je een aantal stappen.
 3  a. Goed geraden: print dan in het groen: "Je hebt het getal goed geraden!"
    b. Niet goed: print dan in het rood: "Je hebt het getal niet goed geraden!"
 
+Hiervoor moet je anti escape code gebruiken, dit word gebruikt om de tekst kleur te geven.
+"\033[" is het begin van een ANSI-escape-code. > als eerste dan code kleur dan finish!
+"92m" is de code voor groene tekst.
+"91m" is de code voor rode tekst.
+"\033[0m" is de code om de tekstkleur en het opmaakniveau te herstellen naar de standaardwaarden.
+
+
+
 Opdracht 2:
 Breid je programma nu zodanig uit dat de gebruiker net zolang moet raden tot hij het juiste getal heeft gevonden.
 

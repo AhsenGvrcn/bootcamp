@@ -29,14 +29,3 @@ def get_letter(prompt):
 
 #Geeft aan wat je hebt ingevoert.
 
-integer_input = get_integer("Voer een geheel getal in: ")
-print(f'Je hebt het gehele getal ingevoerd: {integer_input}')
-
-float_input = get_float('Voer een getal met decimalen in: ')
-print(f'Je hebt het getal met decimalen ingevoerd: {float_input}')
-
-string_input = get_string("Voer een willekeurig string in: ")
-print(f"Je hebt de volgende string ingevoerd: {string_input}")
-
-letter_input = get_letter("Voer één letter in (alfabet): ")
-print(f'Je hebt de volgende letter ingevoerd: {letter_input}')

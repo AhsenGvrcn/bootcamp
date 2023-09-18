@@ -6,3 +6,4 @@ Na diepgravend onderzoek kom er achter dat je nergens meldt in welke range men k
 Breid je gereedschap uit met een functie die kan controleren of de ingevoerde waarde in een lijst voorkomt. 
 Je kunt deze functie op twee plaatsen inzetten. Waar? En doe dit dan ook.
 
+Functie "controleer_bereik" is nodig in dit code, gebruik def n return etc.
